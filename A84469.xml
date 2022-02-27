@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earl of Pembrokes farewell to the King, at his departure from the treaty in the Isle of Wight; with His Majesties reply. Also, his speech in the House of Lords, at his returne safe home from the treaty. Taken verbatim by Michael Oldisworth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84469</idno>
+            <idno type="STC">Wing E77A</idno>
+            <idno type="STC">Thomason E476_22</idno>
+            <idno type="STC">ESTC R205498</idno>
+            <idno type="EEBO-CITATION">99864859</idno>
+            <idno type="PROQUEST">99864859</idno>
+            <idno type="VID">162505</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162505)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E476[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earl of Pembrokes farewell to the King, at his departure from the treaty in the Isle of Wight; with His Majesties reply. Also, his speech in the House of Lords, at his returne safe home from the treaty. Taken verbatim by Michael Oldisworth.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire -- Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  17th century.</term>
+               <term>Isle of Wight --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162505:1" rendition="simple:additions"/>
+            <p>THE EARL OF PEMBROKES Farewell to the KING, At his departure from the TREATY <hi>In the</hi> Iſle <hi>of</hi> Wight; <hi>With</hi> His Majeſties REPLY.</p>
+            <p>ALSO, His SPEECH in the Houſe of LORDS, at his returne ſafe home from the <hi>Treaty.</hi>
+            </p>
+            <p>Taken <hi>Verbatim</hi> by <hi>Michael Oldiſworth.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed in the Yeer. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:162505:2"/>
+            <pb n="3" facs="tcp:162505:2"/>
+            <head>THE EARL OF PEMBROKES Farewell to the KING.</head>
+            <opener>
+               <salute>May it pleaſe your Majeſtie,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am now to take my leave of you; yet I intend not to leave you quite, and not ſee you againe, and yet by God I may too: Damme this Leaving has been the undoing of the Kingdom, for had not your Majeſtie left <hi>White-hall,</hi> the Parliament had not left you; nor had the Army ſeiz'd on you: 'Tis an old Proverbs, <hi>Leave is light,</hi> but this leaving has produc'd many a heavie buſineſſe in this Nation. Your Majeſtie is now in the hands of Huckſters, Damme and Hackſters too; Your Majeſtie had better to have ſign'd to the Propoſitions of the Parliament at firſt, unſight or unſeen, without quirks and Queries of Conſcience, then there had been no more to doe with you; You might have been before this time with us in your Parliament-Houſe, and then the Army might have been with the Devill for me; Now they in<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd to try ye; Indeed you are the Kingdomes Truſtee, and by God, in my judgement, they ought to try ye before they Truſt yee. They have fought againſt you and your Majeſty hath fought againſt them, and if they had not conquer'd you, then your Majeſtie might have conquer'd them; Your Valour
+<pb n="4" facs="tcp:162505:3"/> they have ſuff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ciently try'd a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ready, and your Patience too, and think you that they will ſpare your Perſon; No, they will try yee, and you ſhall have the ſame play as they deſire themſelves when they begge to be try'd by their <hi>Peers,</hi> and pray are not thoſe your <hi>Peers</hi> that have won it by the ſword; and if they have wenne it, by God, J ſee no reaſon but they may we are it too: Jf J fight with another man, and beat him, and diſarme him, is not that man at my mercy, and have not J power to to kill him if J will? Let Law be what it will; you know <hi>might overcomes Right;</hi> Damme, J can hardly right mine owne Name, but yet J can <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight my ſelf if J am abuſed by one that is weaker then my ſelf; but if he be ſtronger then my ſelf, J can as well take an affront as offer it. For the Treaty, it is now ended, and ſo it might have been before it had began, for the good it hath brought the Kingdome: Damme, 'twas never good World ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce this Treating was invented, Treating and ſigning, and a great deal of of ſtir, to no purpoſe; a great deal of Pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pit- prating, but no practiſe, a great cry, but a little wool quoth the Devil when he ſhore his hoggs; 'Zblood give me the ſubſtance, and let the Signe goe where it will; Signing, Damme J thinke we are are all ſign'd with the Signe of the CROSSE, for nothing proſpers that we take in hand; Zblood ſure wee are be witch'd with a Shee-Owle, for all the Nati<g ref="char:EOLhyphen"/>ons in Chriſtendom whoots at us; Nay the Great Turke him<g ref="char:EOLhyphen"/>ſelf (J have clean forgot his Chriſten Name) hates to have any Commerce with us wee are growne ſo perfixious and diſ<g ref="char:EOLhyphen"/>loyall; Damme, would J were a Turke too, for they have a thouſand times more regall honeſty then wee that ſweare and lie on purpoſe to deceive and ruine one another; make Cove<g ref="char:EOLhyphen"/>nants and Vows to God, on purpoſe to enſare and entrap our Brethren, that ſo wee may make a prey of them; And now wee muſt have Levelling with a pox to 'em, every mans E<g ref="char:EOLhyphen"/>ſtate ſhall be alike, No King no Prince Duke, Earle, Barron nor Knight; what the Devill would they have us be trow <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an any body tell? For my part, J <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m an O<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they thinke J deſerve not as much Honor as my Lord <hi>Say,</hi> Let 'em <hi>Say</hi> what they will, call me Spade, Parliament-man, Gaffar; Mouth omnipotent, or what they will, it's all one to <hi>Phillip<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="5" facs="tcp:162505:3"/> for J have ſo much underſtanding, as to know my Age i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ho<g ref="char:EOLhyphen"/>norable; and therefore if they denie me my Honor, they can<g ref="char:EOLhyphen"/>not denie me my Age, and that it is makes me honorable: and if they will not ſuffer the Lords to ſit, nor have an eggetive Voice, then J can hold my tongue in an affirmative Voice, or ſit as a mute in the Houſe of Commons, and ſpeak their dumbe ſhowes for them: For my Religion, I can keep that to my ſelf, and neither trouble God nor man with it: By God I thinke it is Religion has ſet this Kingdome on a ſight flame, for too much Light is a deadly conſumer, I know it by my Houſe; Damee, too much Light burnt it down to the very ground, and ſo will theſe <hi>New Lights</hi> burn down not onely the whole King<g ref="char:EOLhyphen"/>dome, but the whole World too at the laſt day, I am ſure it makes me twi-light to think on't, for I grow ſleepy, and will haſten to an end, on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y I<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e give your Majeſtie a word of deſtru<g ref="char:EOLhyphen"/>ction, and conclude: Damme, Content is a Kingdom over, and over, or top<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y turvey; therefore you muſt be content; beſide <hi>Patience</hi> is a Crown, and if impatient men uncrown you, your Patience muſt Crown you again; (that's Patience perforce) ſo you exchange but one crown for another &amp; al know, Exchange is no robbery: S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nk me, I am as impatient an Aſſe (If I be but throughly vext,) as any creature living; yet I can have Pati<g ref="char:EOLhyphen"/>ence, and ſuffer too, (to prevent a miſchief) nay, ſuffer my ſelf to be croſt too, (over the back with a ſwitch) by a baſe Scot too, and yet had the Patience to ſuffer this, rather then raiſe a War; a Pox of this Warring for mee, and this jarring too; I am ſure I am not a thouſand pounds the better for it; though ſome I could Name, (and not be a falſe SPEAKER) that have purcha<g ref="char:EOLhyphen"/>ſed thouſands a yeer by it; Damme, I hate fighting, for it was I that ſwore at your Majeſtie for fighting againſt the Scots, and cauſed you to withdraw your Forces, and come ſafe home a<g ref="char:EOLhyphen"/>gaine, and Jockey to jogge back into his own Countrey; And this I did to prevent Warre; and by God would doe as much againe to prevent Warre, and the ru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne that follows it, and would doe my buſineſs (if need were) in any place, to bring home a happy, welcome, and long expected <hi>Peace.</hi>
+            </p>
+            <p>Your Majeſtie knowes I am an ill Ornitor, therefore as I began, I will make an end; And leave you to the will of the Ar<g ref="char:EOLhyphen"/>my.</p>
+            <closer>
+               <signed>
+                  <hi>Your</hi> Majeſties humble ſervant, <hi>P. Pembroke.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="reply_to_speech">
+            <pb n="6" facs="tcp:162505:4"/>
+            <head>His <hi>Majeſties</hi> Anſwer to my Lord of <hi>Pembrokes SPEECH.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>AMidſt all my miſeries you make me merry; I have no more to ſay to you, but that in my fall, you may be<g ref="char:EOLhyphen"/>hold your owne, and that ſuddenly; For my part, I am rewarded <hi>Evil</hi> for <hi>Good,</hi> from them that pretend themſelves Saints, and the moſt Godly party, but indeed the worſt of ſinners, and moſt diſobedient of my ſubjects, as appears by their former profeſſions &amp; late actions, not only againſt me, but againſt the authority of both my Houſes of Parliament; My Lord, when I demanded 5. Members, upon juſt evidence of guilt; Was it not adjuded both by you and them a grand breach of Priviledge? And if by me (a King,) ſo great a breach, pray what is it in them, that take away 11. at one time, ſeven Lords at another time, and now ſome 40. or 50. more? God forgive them, I doe, and am arm'd to ſuffer whatever their mallice can alledge, or their rage act againſt me; I aske, nor expect mercy from them, but look up to One that is able to deliver me, and mine: Nothing afflicts me more then the <hi>Sufferings</hi> of my oppreſſed People; yet my hope is, That HEE that hath given me (their King) ſtrength to beare the heavieſt burden of woe, will enable them (my Subjects) to bear the lighter; But our hope is in God. My Lord, farwell, I expect hourly an end of all my Troubles, and then begins your owne, and then comes theirs that cauſed both;</p>
+            <closer>
+               <signed>Yours, <hi>C. R:</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <head>My Lord of <hi>Pembroks</hi> Speech in the Houſe of <hi>Lords,</hi> at his returne from the TREATY.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>DAmme, I miſtake your Titles, I may call you as well Spades, Down-diddles, or any thing; for down you muſt, that's flatt; levell'd; all fellows now: By God 'tis but juſt with us, if the Army would pull down our Breeches and whip us: we have ſate theſe 7. yeers to pull down the King (with a pox)
+<pb n="7" facs="tcp:162505:4"/> and now we muſt be pull'd down our ſelves by a p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cky Gene<g ref="char:EOLhyphen"/>rall (Army I ſhould ſay.) 'Zblood, Treating; the Devill ſhall Treat next for me; Damme, I knew the effect of Treating be<g ref="char:EOLhyphen"/>fore we went: We muſt goe (like ſo many Hobby-Horſes) to the Iſle of <hi>Wight</hi> to Treat with the King, and then come home againe (like ſo many Doccer-heads) to Intreat a company of Shack-ragg lowſie Souldiers. Damme, our ſouldiers are now our Kings, Dukes, Lords, Preachers, nay and Caſh-keepers too; 'Zblood we are like to have a thorow Reformation indeed, for if you are not of their Judgement, you ſhall be run thorow, and thorow againe; a bloody <hi>Caniſh</hi> Religion indeed. I am Chancellor of Oxford; 'Zblood I had better be Maſter of the Bare-garden, and Deform Bears in ſtead of Schollars, when I my ſelf muſt be taught and govern'd by Scullars, Brewers and Tinkers, and a company of thin-skulls that have no more hare then with, nor no more with then honeſty, and yet more craft then Conſcience, more cruelty then coine: I thank God I am neither Souldier nor Schollar; but an upright Common<g ref="char:EOLhyphen"/>wealths-man. 'Tis confeſt, I have been a Privie Counſellor, but Damme, I ſcorne to be an Evill Counſellor; though I have unjuſtly given ſentence in the Starr-chamber, and Counſell<g ref="char:EOLhyphen"/>board; for evill, I thought none; and could I Act Evell and not thinke evill? No, evill be to them that evill thinke, and J thank God J can juſtifie my innocence by my Jgnorance; Before J would Evill Counſell Kingdome, Par<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iament or Ar<g ref="char:EOLhyphen"/>my, J<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Barly-Broath in Hell eternally with the Malig<g ref="char:EOLhyphen"/>nant Commons; Damme, J hate to Traytor my Lord and King the Kingdome, which conſiſts of the Body of the People, which maketh a King, and may as well marre a King, who is but their Truſtee, or Deputie; Damme J acknowledge no o<g ref="char:EOLhyphen"/>ther King then my Soveraigne Lord the Common-People, who is both Creator of King Parliament, and all other Officers and Miniſters of Juſtice: Damme, a Plow-boy is as much a King, (if my Lord the PEOLE p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſe) as King <hi>Charles;</hi> beſide a plow<g ref="char:EOLhyphen"/>boy is the maker of a King, and ought not every King to ac<g ref="char:EOLhyphen"/>knowledge his Maker: Jf he claimes the Kingdom by the <hi>Nor<g ref="char:EOLhyphen"/>man</hi> Conqueſt; then by God, my Lord <hi>Fairfax</hi> may lay claime to it as well as hee, for he hath conquer'd it againe from him;
+<pb n="8" facs="tcp:162505:5"/> and if Lord or Earle be uſurped, or derived from the <hi>Danes,</hi> who as Chronicle-makers ſay, were called <hi>Lurdanes</hi> or Lord-Danes, becauſe they lived Lordly, or idly upon others labors, as many of our Army doe; therefore if Lord be a Title of Re<g ref="char:EOLhyphen"/>proach, and not of Honour, wee may thanke the Army for ta<g ref="char:EOLhyphen"/>king away this Reproach from us; For my part Sirs (for LORDS I will not call you) they ſhall not need to take away my Honor or Titles, for I hold it more honourable to ſubmit my Honor and Titles to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m that knows better how to ſup<g ref="char:EOLhyphen"/>port them then my ſelfe; therefore for my part, let them take them, I lay them downe, and ſee no reaſon but you May doe ſo to; Damme, you ought to ſubmit, when you cannot other<g ref="char:EOLhyphen"/>wiſe helpe it; and if you will ſtill remaine obſtinate, then take what followes; And ſo the bleſſing of <hi>Iſſachar</hi> reſt continually upon you all.</p>
+            <p>SIRS J am never tedious in my Impreſſions, and therefore include my SPEECH, and deſire you ſeriouſly to conſider of the ſcope and ſirrup of what I have ſaid,</p>
+            <closer>
+               <signed>Your Honors Servant. <hi>PEMBROKE and MONTGOMERY.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <closer/>
+            <postscript>
+               <p>Vera Copia.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
